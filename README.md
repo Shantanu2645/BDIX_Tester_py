@@ -38,7 +38,8 @@ Download the whole repository
 ```bash
 cd BDIX_Tester_py<br>
 ```
-```bash python3 bdix.py```
+```bash python3 bdix.py
+```
    
    
    
