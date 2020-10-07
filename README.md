@@ -20,6 +20,9 @@ git clone https://github.com/Shantanu2645/BDIX_Tester_py
 or download the whole repository
    
 <h3>windows</h3><br>
+```cmd
+git clone https://github.com/Shantanu2645/BDIX_Tester_py
+```
 Download the whole repository
    
  ## Run
