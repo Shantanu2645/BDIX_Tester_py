@@ -39,7 +39,7 @@ Download the whole repository
 ## Run
 open terminal/cmd
    
-<h5>linux/windows</h5><br>
+<h5>linux</h5><br>
 
 ```bash
 cd BDIX_Tester_py
@@ -51,7 +51,17 @@ cd BDIX_Tester_py
 python3 bdix.py
 ```
    
-   
+<h5>Windows</h5><br>
+
+```bash
+cd BDIX_Tester_py
+
+```
+<br> then <br> 
+
+```bash
+python bdix.py
+```
    
    
   
