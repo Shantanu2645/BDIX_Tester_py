@@ -41,7 +41,7 @@ Download the whole repository
 ## Run
 open terminal/cmd
    
-<h2>linux</h2><br>
+<h2>linux/windows</h2><br>
 ```bash
 cd BDIX_Tester_py
 ```
