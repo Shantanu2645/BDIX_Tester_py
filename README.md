@@ -7,7 +7,7 @@ This tool will allow you to test BDIX/FTP server for you ISP
 ```bash
 sudo apt-get install git
 ```
-then 
+<br>then<br> 
 ```bash
 sudo pip3 install wget
 ```
@@ -16,6 +16,7 @@ sudo pip3 install wget
 ```bash
 pip install wget 
 ```
+<br>
 ## Download
 <h3>Linux</h3><br>
 open terminal and run<br>
@@ -27,19 +28,22 @@ git clone https://github.com/Shantanu2645/BDIX_Tester_py
 or download the whole repository
    
 <h3>windows</h3><br>
+
+
 ```bash
 git clone https://github.com/Shantanu2645/BDIX_Tester_py
 ```
 Download the whole repository
    
- ## Run
-   open terminal/cmd
+## Run
+open terminal/cmd
    
 <h2>linux</h2><br>
 ```bash
 cd BDIX_Tester_py
 ```
-then 
+then <br> 
+
 ```bash
 python3 bdix.py
 ```
