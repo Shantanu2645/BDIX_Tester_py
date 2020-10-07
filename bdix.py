@@ -32,7 +32,7 @@ for i in bdix_list:
         
         if request_response.status_code == 200 :
             bdix_list_final.append(i)
-            out = i + "   ("+count+" remaining)"
+            out = i + "   ("+str(count)+" remaining)"
             print(out)
             
     except requests.exceptions.Timeout: 
