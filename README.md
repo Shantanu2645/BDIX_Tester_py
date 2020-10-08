@@ -24,7 +24,7 @@ python3 bdix.py
 
 <h3>Windows</h3><br>
 
-<h5>You must have <b>Python3</b> installed is you PC</h5>
+<h5>You must have <b>Python3</b> installed in your PC</h5>
 
 
 ```bash
