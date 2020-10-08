@@ -24,6 +24,9 @@ python3 bdix.py
 
 <h3>Windows</h3><br>
 
+<h5>You must have <b>Python3</b> installed is you PC</h5>
+
+
 ```bash
 pip install wget
 
@@ -40,7 +43,6 @@ python bdix.py
 
 
 <h3>Termux</h3><br>
-
 
 ```bash
 pkg install git
