@@ -11,7 +11,7 @@ file =  os.path.join(sys.path[0], "bdix_url_local.txt")
 if os.path.exists(file) == False:
     url = "https://raw.githubusercontent.com/Shantanu2645/BDIX_Tester_py/main/BDIX_url.txt"
     wget.download(url,file)
-url_list = open(os.path.join(sys.path[0], "bdix_url.txt"),'r+')
+url_list = open(os.path.join(sys.path[0], "bdix_url_local.txt"),'r+')
 
 
 timer = int(input("Enter timeout based on your internet speed (second): "))
