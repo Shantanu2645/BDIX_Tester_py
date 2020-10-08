@@ -7,7 +7,7 @@ print("*******************************")
 print("****BDIX tester by shantanu****")
 print("*******************************\n")
 
-file =  os.path.join(sys.path[0], "bdix_url.txt")
+file =  os.path.join(sys.path[0], "bdix_url_local.txt")
 if os.path.exists(file) == False:
     url = "https://raw.githubusercontent.com/Shantanu2645/BDIX_Tester_py/main/BDIX_url.txt"
     wget.download(url,file)
@@ -55,7 +55,7 @@ for i in bdix_list_final:
 
 final_urls.close()
 
-
+print("\nFetched",len(bdix_list_final),"sites\n")
 print("\nCheck 'data.txt' file for working URLS\nEnjoy!! \nCreated and Maintained By Shantanu Dey Anik")
 print("\nFacebook: www.facebook.com/shantanu.anik.dey ")
 
