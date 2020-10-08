@@ -6,9 +6,11 @@ This tool will allow you to test BDIX/FTP server for you ISP
 <h3>Linux</h3><br>
 
 ```bash
-pip install wget
+sudo apt-get install python3
 
-pip install requests
+pip3 install wget
+
+pip3 install requests
 
 sudo apt-get install git
 
