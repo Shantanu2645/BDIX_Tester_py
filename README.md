@@ -8,13 +8,13 @@ This tool will allow you to test BDIX/FTP server for you ISP
 ```bash
 sudo apt-get install python3
 
-pip3 install -r requirements.txt
-
 sudo apt-get install git
 
 git clone https://github.com/Shantanu2645/BDIX_Tester_py
 
 cd BDIX_Tester_py
+
+pip3 install -r requirements.txt
 
 python3 bdix.py
 ```
@@ -26,11 +26,12 @@ python3 bdix.py
 
 
 ```bash
-pip install -r requirements.txt
 
 git clone https://github.com/Shantanu2645/BDIX_Tester_py
 
 cd BDIX_Tester_py
+
+pip install -r requirements.txt
 
 python bdix.py
 ```
@@ -45,11 +46,11 @@ pkg install git
 
 pkg install python
 
-pip install -r requirements.txt
-
 git clone https://github.com/Shantanu2645/BDIX_Tester_py
 
 cd BDIX_Tester_py
+
+pip install -r requirements.txt
 
 python bdix.py
 ```
